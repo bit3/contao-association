@@ -5,7 +5,10 @@ Der Abschnitt *9 Der Vorstand*, im Original:
 > 9 Der Vorstand
 >
 > Der Vorstand besteht aus fünf natürlichen Personen, nämlich dem Präsident,
-> dem Schatzmeister, dem Sekretär und zwei Beisitzern.
+> dem Schatzmeister, dem Sekretär und zwei Beisitzern. Er vertritt den
+> Verein nach Aussen und führt die laufenden Geschäfte. Der Vorstand
+> konstituiert sich selbst.
+
 
 soll wie folgt geändert werden:
 
@@ -14,6 +17,8 @@ soll wie folgt geändert werden:
 > Der Vorstand besteht aus mindestens drei natürlichen Personen, nämlich
 > dem Präsident, dem Schatzmeister, dem Sekretär. Es können außerdem ein
 > vielfaches von zwei Beisitzern den Vorstand ergänzen.
+> Er vertritt den Verein nach Aussen und führt die laufenden Geschäfte.
+> Der Vorstand konstituiert sich selbst.
 > 
 > 9.1 Wahl
 > 
