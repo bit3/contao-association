@@ -4,6 +4,7 @@ beantrage ich folgende Änderung der Statuten.
 Der Abschnitt *9.1 Wahl, Absatz c)*, im Original:
 
 > 9.1 Wahl
+>
 > c) Die Wahl erfolgt grundsätzlich geheim. Auf Antrag eines einzelnen kann die
 > Wahl öffentlich erfolgen, die Abstimmung darüber muss aber geheim erfolgen.
 > Es muss einstimmig für die öffentliche Wahl gestimmt werden.
@@ -11,6 +12,7 @@ Der Abschnitt *9.1 Wahl, Absatz c)*, im Original:
 soll wie folgt geändert werden:
 
 > 9.1 Wahl
+>
 > c) Die Wahl erfolgt grundsätzlich offen. Ein Einzelner kann vor Beginn der
 > Generalversammlung beim Vorstand eine geheime Wahl beantragen.
 >

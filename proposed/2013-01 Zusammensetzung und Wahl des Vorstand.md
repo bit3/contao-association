@@ -3,12 +3,14 @@ Ich beantrage folgende Änderung der Statuten.
 Der Abschnitt *9 Der Vorstand*, im Original:
 
 > 9 Der Vorstand
+>
 > Der Vorstand besteht aus fünf natürlichen Personen, nämlich dem Präsident,
 > dem Schatzmeister, dem Sekretär und zwei Beisitzern.
 
 soll wie folgt geändert werden:
 
 > 9 Der Vorstand
+>
 > Der Vorstand besteht aus mindestens drei natürlichen Personen, nämlich
 > dem Präsident, dem Schatzmeister, dem Sekretär. Es können außerdem ein
 > vielfaches von zwei Beisitzern den Vorstand ergänzen.
