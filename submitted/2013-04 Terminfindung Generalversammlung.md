@@ -3,8 +3,9 @@ Tagen der Konferenz/Camp statt finden soll und nicht davor/danach.
 Viele Mitglieder sind am Vorabend oft noch auf der Anreise oder müssen
 früher abreisen und können dann nicht an der GV teilnehmen.
 
+**Eingereicht am 02.06.2013**
 
-*Antwort vom 19.06.2013*
+**Antwort vom 19.06.2013**
 
 > Wir haben das diskutiert und sind mit dir insofern einverstanden, dass der Vorabend ungünstig ist.
 > Dies nicht nur im Bezug auf die Mitglieder sondern auch im Bezug auf die Werbefläche für die Association selbst
