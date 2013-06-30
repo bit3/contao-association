@@ -5,7 +5,7 @@ Der Abschnitt *9.1 Wahl, Absatz c)*, im Original:
 
 > 9.1 Wahl
 >
-> c) Die Wahl erfolgt grundsätzlich geheim. Auf Antrag eines einzelnen kann die
+> c) Die Wahl erfolgt grundsätzlich geheim. Auf Antrag eines Einzelnen kann die
 > Wahl öffentlich erfolgen, die Abstimmung darüber muss aber geheim erfolgen.
 > Es muss einstimmig für die öffentliche Wahl gestimmt werden.
 

@@ -42,6 +42,6 @@ soll wie folgt geändert werden:
 > Kandidaten als gewählt, welche die relative Mehrheit der akkreditierten
 > Mitglieder auf sich vereinen können.
 > 
-> c) Die Wahl erfolgt grundsätzlich geheim. Auf Antrag eines einzelnen kann die
+> c) Die Wahl erfolgt grundsätzlich geheim. Auf Antrag eines Einzelnen kann die
 > Wahl öffentlich erfolgen, die Abstimmung darüber muss aber geheim erfolgen.
 > Es muss einstimmig für die öffentliche Wahl gestimmt werden.
