@@ -1,3 +1,5 @@
+﻿**Eingereicht am 19.03.2014**
+
 Ich beantrage folgende Änderung der Statuten.
 
 Der Abschnitt *8 Die Generalversammlung* soll wie folgt ergänzt werden:

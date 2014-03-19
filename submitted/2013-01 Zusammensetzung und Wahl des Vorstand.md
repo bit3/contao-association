@@ -1,3 +1,6 @@
+﻿
+**Eingereicht am 19.03.2014**
+
 Ich beantrage folgende Änderung der Statuten.
 
 Der Abschnitt *9 Der Vorstand*, im Original:
